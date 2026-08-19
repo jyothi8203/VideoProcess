@@ -1,0 +1,25 @@
+{
+  "0": {
+    "name": "Hyderabad, Telangana, India",
+    "north": 17.5608321,
+    "south": 17.2916377,
+    "east": 78.6223912,
+    "west": 78.2387067
+  },
+
+  "1": {
+    "name": "Bangalore, Karnataka, India",
+    "north": 13.1426196,
+    "south": 12.8334905,
+    "east": 77.7840639,
+    "west": 77.4598797
+  },
+
+  "2": {
+    "name": "Chennai, Tamil Nadu, India",
+    "north": 13.235158,
+    "south": 12.8519771,
+    "east": 80.3328982,
+    "west": 80.1401875
+  }
+}
